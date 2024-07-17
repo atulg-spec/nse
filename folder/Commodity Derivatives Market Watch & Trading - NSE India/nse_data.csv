@@ -1,0 +1,32 @@
+"INSTRUMENT TYPE 
+","SYMBOL 
+","UNIT 
+","EXPIRY DATE 
+","LTP 
+","CHNG 
+","%CHNG 
+","VOLUME 
+(Contracts)","VALUE 
+ (₹ Crores)","OPEN INTEREST 
+(Contracts)","SPOT PRICE 
+"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.40","-1.30","-76.47","14,015","0.07","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.90","-1.80","-66.67","13,674","0.21","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.70","0.10","16.67","9,302","0.05","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.40","-0.70","-63.64","8,510","0.05","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.60","-1.30","-68.42","7,565","0.07","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.50","-1.40","-73.68","6,127","0.04","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.40","-2.70","-87.10","4,746","0.05","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.10","-1.10","-91.67","3,796","0.03","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.90","-0.60","-40.00","3,106","0.03","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","45.20","14.30","46.28","823","0.52","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","2.40","-4.80","-66.67","658","0.03","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","0.30","-1.10","-78.57","561","-","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","1.70","-1.40","-45.16","427","0.01","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","11.50","1.10","10.58","386","0.10","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","4.20","-23.70","-84.95","377","0.05","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","25.70","-51.80","-66.84","366","0.15","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","1.00","0.30","42.86","205","-","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","80.50","-85.40","-51.48","191","0.16","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","131.70","53.10","67.56","167","0.20","-","6,845.00"
+"Options on Futures","CRUDEOIL","100 Barrel","17-Jul-2024","2.80","-4.20","-60.00","127","0.01","-","6,845.00"
